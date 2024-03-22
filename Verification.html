@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Token KYC Onboarding</title>
+    <link rel="stylesheet" href="4/darkly/bootstrap.min.css">
+    <script src="widget/scripts/release/3.0.2/blockpass-kyc-connect.prod.js" defer=""></script>
+     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <style>
+        body {
+            background-color: #1a1a1a;
+            color: #fff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .container {
+            border: 1px solid #555;
+            border-radius: 10px;
+            padding: 20px;
+            background-color: #333;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            transition: transform 0.3s ease;
+        }
+        .container:hover {
+            transform: translateY(-2px);
+        }
+        .btn-primary {
+            background-color: #0062cc;
+            border-color: #005cbf;
+        }
+        .form-control:focus {
+            border-color: #80bdff;
+            outline: 0;
+            box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+        }
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+    <div class="d-flex justify-content-center">
+    <img src="assets/images/logo1%20%281%29.png" alt="" width="500">
+      
+</div>
+              <br>
+
+            <div class="form-group">
+                <label for="projectName">Project Name:</label>
+                <input type="text" class="form-control" id="projectName" name="projectName" placeholder="Enter your project's name" required="">
+            </div>
+            <div class="form-group">
+                <label for="blockchainSelect">Blockchain:</label>
+                <select class="form-control" id="blockchainSelect">
+                    <option value="SOL">Solana (SOL)</option>
+                    <!-- Add more blockchain options as needed -->
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="tokenAddress">Token Address:</label>
+                <input type="text" class="form-control" id="tokenAddress" name="tokenAddress" placeholder="Enter the token address" required="">
+            </div>
+            <button style="background-color: #9c7efb" id="blockpass-kyc-connect" class="btn btn-primary btn-block hidden">Start KYC Process</button>
+        </div>
+    </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const projectNameInput = document.getElementById('projectName');
+    const blockchainSelect = document.getElementById('blockchainSelect');
+    const tokenAddressInput = document.getElementById('tokenAddress');
+    
+    // Update the event listener to remove the hidden class when appropriate
+    function updateButtonDisplay() {
+      const isFormFilled = projectNameInput.value.trim() && tokenAddressInput.value.trim();
+      document.getElementById('blockpass-kyc-connect').classList.toggle('hidden', !isFormFilled);
+    } 
+
+    projectNameInput.addEventListener('input', updateButtonDisplay);
+    tokenAddressInput.addEventListener('input', updateButtonDisplay);
+
+    document.getElementById('blockpass-kyc-connect').addEventListener('click', function () {
+      const projectName = projectNameInput.value.trim();
+      const blockchain = blockchainSelect.value;
+      const tokenAddress = tokenAddressInput.value.trim();
+
+      if (!projectName || !tokenAddress) {
+        alert('Please enter both a project name and a token address.');
+        return;
+      }
+
+      const blockpass = new BlockpassKYCConnect('nolosskyc_8f0e8', {
+        refId: `${projectName}_${blockchain}_${tokenAddress}`,
+        elementId: 'blockpass-kyc-connect', // Specify the ID of the button
+        mainColor: '9c7efb', // Set your theme color here
+        email: 'user@domain.com', // Optionally prefill the email address
+        env: 'prod',
+      });
+
+      blockpass.startKYCConnect();
+    });
+  });
+</script>
+
+</body>
+</html>

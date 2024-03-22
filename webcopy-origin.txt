@@ -1,0 +1,412 @@
+Uri: https://bootswatch.com/4/darkly/bootstrap.min.css
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\4\darkly\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.blockpass.org/widget/scripts/release/3.0.2/blockpass-kyc-connect.prod.js
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\widget\scripts\release\3.0.2\blockpass-kyc-connect.prod.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/ajax-loader.gif
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\ajax\libs\slick-carousel\1.8.1\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/fonts/slick.eot
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\ajax\libs\slick-carousel\1.8.1\fonts\slick.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/fonts/slick.eot?
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\ajax\libs\slick-carousel\1.8.1\fonts\slick-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/fonts/slick.svg
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\ajax\libs\slick-carousel\1.8.1\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/fonts/slick.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\ajax\libs\slick-carousel\1.8.1\fonts\slick.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/fonts/slick.woff
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\ajax\libs\slick-carousel\1.8.1\fonts\slick.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\ajax\libs\slick-carousel\1.8.1\slick-theme.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\ajax\libs\slick-carousel\1.8.1\slick.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\ajax\libs\slick-carousel\1.8.1\slick.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\css2-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\css2-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap);:root{--blue:
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\css2-7
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\css2-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\css2-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700&display=swap
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v14/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\dmsans\v14\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v14/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\dmsans\v14\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v14/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\dmsans\v14\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPy-v.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\lato\v24\S6u-w4BMUTPHjxsIPy-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30wWw.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\lato\v24\S6u8w4BMUTPHh30wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxswWw.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\lato\v24\S6u8w4BMUTPHjxswWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50Xew8.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\lato\v24\S6u9w4BMUTPHh50Xew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVew8.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\lato\v24\S6u9w4BMUTPHh6UVew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USew8.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\lato\v24\S6u9w4BMUTPHh7USew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHvxk.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\lato\v24\S6uyw4BMUTPHvxk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wiPHA.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\lato\v24\S6u_w4BMUTPHjxsI3wiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wqPHA.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\lato\v24\S6u_w4BMUTPHjxsI5wqPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2PHA.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\lato\v24\S6u_w4BMUTPHjxsI9w2PHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\poppins\v20\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\poppins\v20\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\poppins\v20\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\poppins\v20\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapYCP.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpYCP.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao4CP.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao4CP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://i.imgur.com/6Gu5ulv.png
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\6Gu5ulv.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/Pn4EzWz.png
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\Pn4EzWz.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/WynkhAx.png
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\WynkhAx.png
+Content Type: image/png
+
+Uri: https://nolosskyc.xyz/
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\index.htm
+Content Type: text/html
+
+Uri: https://nolosskyc.xyz/assets/css/bootstrap.min.css
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://nolosskyc.xyz/assets/css/font-awesome.min.css
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://nolosskyc.xyz/assets/css/main.css
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\css\main.css
+Content Type: text/css
+
+Uri: https://nolosskyc.xyz/assets/fonts/CircularStd-Book.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\fonts\CircularStd-Book.ttf
+Content Type: font/ttf
+
+Uri: https://nolosskyc.xyz/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nolosskyc.xyz/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nolosskyc.xyz/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://nolosskyc.xyz/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://nolosskyc.xyz/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://nolosskyc.xyz/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://nolosskyc.xyz/assets/images/Arrow (1).png
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\images\Arrow (1).png
+Content Type: image/png
+
+Uri: https://nolosskyc.xyz/assets/images/Arrow.png
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\images\Arrow.png
+Content Type: image/png
+
+Uri: https://nolosskyc.xyz/assets/images/Ellipse 3.png
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\images\Ellipse 3.png
+Content Type: image/png
+
+Uri: https://nolosskyc.xyz/assets/images/Ellipse 5.png
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\images\Ellipse 5.png
+Content Type: image/png
+
+Uri: https://nolosskyc.xyz/assets/images/Group 20804.png
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\images\Group 20804.png
+Content Type: image/png
+
+Uri: https://nolosskyc.xyz/assets/images/Icon - Category.png
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\images\Icon - Category.png
+Content Type: image/png
+
+Uri: https://nolosskyc.xyz/assets/images/Icon - Edit.png
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\images\Icon - Edit.png
+Content Type: image/png
+
+Uri: https://nolosskyc.xyz/assets/images/Icon - Wallet.png
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\images\Icon - Wallet.png
+Content Type: image/png
+
+Uri: https://nolosskyc.xyz/assets/images/logo1 (1).png
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\images\logo1 (1).png
+Content Type: image/png
+
+Uri: https://nolosskyc.xyz/assets/js/bootstrap.min.js
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://nolosskyc.xyz/assets/js/jquery.min.js
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://nolosskyc.xyz/assets/js/popper.min.js
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://nolosskyc.xyz/index.html
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\index.html
+Content Type: text/html
+
+Uri: https://nolosskyc.xyz/LITE.pdf
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\LITE.pdf
+Content Type: application/pdf
+
+Uri: https://nolosskyc.xyz/Verification.html
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\Verification.html
+Content Type: text/html
+
+Uri: https://unpkg.com/@passbase/button@4.4.0/button.js
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\@passbase\button@4.4.0\button.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/aos@3.0.0-beta.6/dist/aos.js
+File Name: C:\Users\박진호\Desktop\사이트복제\nolosskyc.xyz\aos@3.0.0-beta.6\dist\aos.js
+Content Type: application/javascript
+
